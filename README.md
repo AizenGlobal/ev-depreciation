@@ -1,8 +1,6 @@
 # ev-depreciation
----
 
 ## Repo Structure 
----
 * m1_used_car: Jupyter notebook (EDA and preprocess code for developing model version 1)
 
 ## Description
@@ -12,7 +10,6 @@
   * model: predict used car price (total & ev)
 
 ## Environment
----
 * S3
   * bucket: ev-depreciation 
   
