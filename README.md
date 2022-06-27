@@ -12,6 +12,5 @@
 ## Environment
 * S3
   * bucket: ev-depreciation 
-  
 * SageMaker
   * studio: jimin-shin-ds
